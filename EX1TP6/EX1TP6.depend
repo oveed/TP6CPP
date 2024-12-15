@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1734265515 source:c:\users\ahmed\documents\tp c++\ex1tp6\vecteur.cpp
+	"vecteur.h"
+
+1734265465 c:\users\ahmed\documents\tp c++\ex1tp6\vecteur.h
+	<iostream>
+
+1734265499 source:c:\users\ahmed\documents\tp c++\ex1tp6\vecteur3d.cpp
+	"vecteur3d.h"
+
+1734265448 c:\users\ahmed\documents\tp c++\ex1tp6\vecteur3d.h
+	"vecteur.h"
+
+1734265650 source:c:\users\ahmed\documents\tp c++\ex1tp6\main.cpp
+	"vecteur3d.h"
+

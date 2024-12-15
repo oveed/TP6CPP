@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1734271357 source:c:\users\ahmed\documents\tp c++\ex5tp6\enseignant.cpp
+	"enseignant.h"
+
+1734271357 c:\users\ahmed\documents\tp c++\ex5tp6\enseignant.h
+	"personne.h"
+
+1734271357 c:\users\ahmed\documents\tp c++\ex5tp6\personne.h
+	<iostream>
+	<string>
+
+1734271357 source:c:\users\ahmed\documents\tp c++\ex5tp6\etudiant.cpp
+	"etudiant.h"
+
+1734271357 c:\users\ahmed\documents\tp c++\ex5tp6\etudiant.h
+	"personne.h"
+
+1734271357 source:c:\users\ahmed\documents\tp c++\ex5tp6\main.cpp
+	"contractuel.h"
+
+1734271357 c:\users\ahmed\documents\tp c++\ex5tp6\contractuel.h
+	"enseignant.h"
+	"etudiant.h"
+
+1734271357 source:c:\users\ahmed\documents\tp c++\ex5tp6\personne.cpp
+	"personne.h"
+

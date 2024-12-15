@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734266164 source:c:\users\ahmed\documents\tp c++\ex2tp6\main.cpp
+	"robotchasseur.h"
+
+1734266167 c:\users\ahmed\documents\tp c++\ex2tp6\robotchasseur.h
+	"robot.h"
+
+1734273143 c:\users\ahmed\documents\tp c++\ex2tp6\robot.h
+	<iostream>
+	<cmath>
+
+1734266344 source:c:\users\ahmed\documents\tp c++\ex2tp6\robot.cpp
+	"robot.h"
+

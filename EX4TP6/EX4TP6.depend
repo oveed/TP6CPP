@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1734271935 source:c:\users\ahmed\documents\tp c++\ex4tp6\main.cpp
+	<iostream>
+	<vector>
+	"Pion.h"
+	"Roi.h"
+
+1734271935 c:\users\ahmed\documents\tp c++\ex4tp6\pion.h
+	"Piece.h"
+
+1734271935 c:\users\ahmed\documents\tp c++\ex4tp6\piece.h
+	<iostream>
+	<string>
+
+1734271935 c:\users\ahmed\documents\tp c++\ex4tp6\roi.h
+	"Piece.h"
+
